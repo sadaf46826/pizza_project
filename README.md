@@ -26,9 +26,4 @@ The **Pizza Project** is designed to streamline the management of pizza-related 
 - **Pizzas**: Includes details about available pizza types, sizes, and prices.
 - **Ingredients**: Manages inventory for pizza ingredients.
 
-## Installation
 
-1. Ensure you have a compatible SQL database installed (e.g., MySQL).
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/pizza-project.git
